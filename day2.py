@@ -1,6 +1,3 @@
-def main():
-    Bank = bank()
-
 acc_pin = int(input("enter your account pin:"))
 if acc_pin == 1234:
     print("you can access your account")
